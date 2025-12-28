@@ -51,17 +51,6 @@ I’m deeply passionate about **clean, test-driven code** and use **CI/CD**, **A
 
 ### 📊 GitHub & LeetCode Stats
 
-<p align="center">
-  <!-- GitHub cards -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RohanRajendraDalvi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanRajendraDalvi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top languages / GitHub activity -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRajendraDalvi&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohanRajendraDalvi&theme=react-dark&hide_border=true" />
-</p>
 
 <!-- ================= LEETCODE ================= -->
 <p align="center">
