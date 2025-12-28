@@ -80,10 +80,6 @@ I’m deeply passionate about **clean, test-driven code** and use **CI/CD**, **A
   <!-- If you prefer a custom badge showing '# solved', we can create one with a GitHub Action that updates a badge automatically. -->
 </p>
 
-<p align="center">
-  <i>Note:</i> If the LeetCode card(s) fail to render or show incorrect data, make sure your LeetCode username is spelled exactly as `rohan10dalvi`. Some 3rd-party cards rely on public profile endpoints — if your LeetCode profile is private or rate-limited, they may not render.
-</p>
-
 
 ---
 
@@ -94,24 +90,24 @@ I’m deeply passionate about **clean, test-driven code** and use **CI/CD**, **A
 > Reduced test cycle from **1 year → 1.5 months**.
 > 
 > _Tech:_ Kotlin • C • Docker • Bash • GPU APIs  
-> 🔗 [View Project](https://github.com/RohanRajendraDalvi/Xander-AR)
+> 🔗 [Website](https://www.xanderglasses.com/xanderglasses)
 
 #### 🧑‍💻 **HiringTek Platform**
 > WebRTC-based interview system (700+ concurrent peers) with AI gaze tracking.  
 > 
 > _Tech:_ Angular • TypeScript • Node.js • Socket.IO • AWS (S3, Lambda)  
-> 🔗 [View Project](https://github.com/RohanRajendraDalvi/HiringTek)
+> 🔗 [Chapter](https://www.taylorfrancis.com/books/edit/10.1201/9781003440901/ai-oriented-competency-framework-talent-management-digital-economy-alex-khang)
 
 #### 🎬 **Cine-Bot**
 > Conversational movie search engine with embeddings + multi-LLM backend (Groq, Ollama).  
 > 
 > _Tech:_ React • Flask • ChromaDB • FAISS • Transformers  
-> 🔗 [Repo](https://github.com/RohanRajendraDalvi/Cine-Bot)
+> 🔗 [Repo](https://github.com/Mansi142000/NLP-Project?tab=readme-ov-file)
 
 #### 🧘 **Yoga AI Classifier**
 > TensorFlow.js web app achieving **90% accuracy** in yoga pose recognition with real-time feedback.  
-> _Tech:_ TensorFlow.js • HTML5 • JavaScript  
-
+> _Tech:_ TensorFlow.js • HTML5 • JavaScript
+> 🔗 [Repo](https://yogai.onrender.com/)
 ---
 
 ### 🎓 Education
