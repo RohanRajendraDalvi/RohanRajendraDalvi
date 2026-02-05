@@ -130,25 +130,11 @@ GPA: 9.78/10 • Published researcher • Google DSC Core Committee
 
 ---
 
-## 💼 Experience Highlights
-
-| Company | Impact |
-|---------|--------|
-| **Xander Glasses** | Test automation • 32% faster releases • Diagnostics tooling |
-| **Northeastern** | Lead TA • React/TypeScript curriculum • Managed 3 TAs |
-| **HiringTek** | 700-user WebRTC platform • Real-time video infrastructure • Published research |
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for **Software Engineer** or **Full-Stack Developer** roles.
 
 📧 **dalvi.ro@northeastern.edu**
-📱 **+1 (857) 313-1819**
-🌐 [rohandalvi.vercel.app](https://rohandalvi.vercel.app)
-💼 [LinkedIn](https://www.linkedin.com/in/rohan-dalvi-3848771b8/)
-
 ---
 
 I don't just write code — I solve problems and ship products. Let's talk.
